@@ -22,10 +22,7 @@
   Hi,
 
 Thanks for visiting my profile! With over 3-years of experience in SQL/NO-SQL and Web Application development, I have a proven track record of successfully handling both short and longer-term projects, Which makes me a great choice for you.
-
-My schedule is very flexible, as I often work not only daytime hours,
-
-but early morning and late evening as well.
+My schedule is very flexible, as I often work not only daytime hours but early morning and late evening as well.
 
 **Education:**
 
