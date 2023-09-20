@@ -32,15 +32,15 @@ My schedule is very flexible, as I often work not only daytime hours but early m
 
 **Work Experience:**
 
-1. **Freelance Software Developer | Cruxtab **
+1. **Freelance Software Developer | Cruxtab**
 - Worked as a freelancer while pursuing my degree.
 - Collaborated on various projects in the software development industry.
 - Gained valuable hands-on experience and honed my skills.
-2. **Software Developer | Logicwind LLP **
+2. **Software Developer | Logicwind LLP**
 - Developed a Cron server for web scraping called ITAT using Puppeteer, Cheerio, and Agenda NPM packages.
 - Contributed to the successful implementation of various software projects.
 - Achieved recognition as a top-performing developer for consistently delivering high-quality code and meeting project milestones.
-3. **Backend Developer | Loop Money **
+3. **Backend Developer | Loop Money**
 - Joined the backend team of Loop Money, a fintech startup based in the UK.
 - Responsible for understanding client requirements, creating estimations, and facilitating communication with other developers.
 - Played a pivotal role in the development of Loop Money's mobile app backend, using technologies like Node js, and Express js.
